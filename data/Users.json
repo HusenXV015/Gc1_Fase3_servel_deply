@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "66eae610e3e009794728753c"
+  },
+  "name": "husen",
+  "username": "Husen Gituloh",
+  "email": "FaadhilHussaeni@mail.com",
+  "password": "$2b$10$pQBVpRwzJu3CiZyclhRvTOzFtDLdm9cjXi3RRJGgMkW/mnTnpzX8y"
+},
+{
+  "_id": {
+    "$oid": "66eae70917e036b0b21b1d2e"
+  },
+  "name": "ilham",
+  "username": "ilham slebew",
+  "email": "Ilhamnopi@mail.com",
+  "password": "$2b$10$LmHoffvBHWIWDONr3xC//O26lJh.kS7J6fupbvL/w7WrR6T7LuA92"
+},
+{
+  "_id": {
+    "$oid": "66eae83817e036b0b21b1d31"
+  },
+  "name": "nurdin",
+  "username": "ilham slebew",
+  "email": "nurdinriski@mail.com",
+  "password": "$2b$10$m0cVTTxrdrJq3hkN1nbJN.rivY69BJUA.02gZLR3pftGKq1dE1.ci"
+},
+{
+  "_id": {
+    "$oid": "66eb10382aed3f609958d2dd"
+  },
+  "name": "HusenX",
+  "username": "HusenGitu",
+  "email": "Husen@mail.com",
+  "password": "$2b$10$qYWp3D6mZaRpW9pLAOHwrOY7d4x2AdF79SZJRG8K80OqVId0tdRyS"
+},
+{
+  "_id": {
+    "$oid": "66eb119e2aed3f609958d2de"
+  },
+  "name": "fufufafa",
+  "username": "Gibran",
+  "email": "husen12@mail.com",
+  "password": "$2b$10$mHarVmf4Fo1cpcebk.HzVOIngqRvPp4/qx1/yd4iCdroxYZ5.ppcW"
+},
+{
+  "_id": {
+    "$oid": "66ec39a3f661c895ea2cf68d"
+  },
+  "name": "Kiks marikiks",
+  "username": "rickiks",
+  "email": "RickyKarela@mail.com",
+  "password": "$2b$10$Xso9FVnxRNR9HecU0tif2eSN.d2HhDfBYj7/qrBlgkjZiMn609QLq"
+}]

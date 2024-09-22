@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "66ecda298e09a6a6453746a8"
+  },
+  "followerId": {
+    "$oid": "66ec39a3f661c895ea2cf68d"
+  },
+  "followingId": {
+    "$oid": "66eae610e3e009794728753c"
+  },
+  "createdAt": {
+    "$date": "2024-09-20T02:12:57.407Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-20T02:12:57.407Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66ed195afdf867ccaa8f43b6"
+  },
+  "followerId": {
+    "$oid": "66ec39a3f661c895ea2cf68d"
+  },
+  "followingId": {
+    "$oid": "66eae610e3e009794728753c"
+  },
+  "createdAt": {
+    "$date": "2024-09-20T06:42:34.735Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-20T06:42:34.735Z"
+  }
+}]
