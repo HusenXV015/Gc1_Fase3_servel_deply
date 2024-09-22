@@ -24,7 +24,7 @@ const server = new ApolloServer({
     console.log("Database connected successfully");
   
     const { url } = await startStandaloneServer(server, {
-      listen: 80,
+      listen: 4000,
       context: async ({ req, res }) => {
         console.log("this console will be triggered on every request");
   
